@@ -1,0 +1,13 @@
+#canvas {
+    position:absolute;
+    left:0;
+    top:40px;
+}
+#settings {
+    position:absolute;
+    top: 0;
+    padding: 0;
+}
+#radiusInput, #massInput, #chargeInput{
+    color: red;
+} 
